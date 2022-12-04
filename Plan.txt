@@ -1,0 +1,8 @@
+Credit Score Systems have problems that are substancial that are not in the best interests for a good amount of users who need credit to make payments on things they don't have the cash on hand for. 
+
+Problems: 
+  1) The information regarding your credit score is not open, transparent, and constant. This information being how the scores is totally calculated. Not just statements that the company issues you and then you see at the end of the month how it's calculated. 
+  2) Credit scores are incentivized to keep you hooked. They drop your score when you pay them off. Is this not a conflict of interest? 
+  3) For people just starting to build their credit, it can be hard to get a card depending on your economic status. 
+  
+  So how do we go about solving this problem?
